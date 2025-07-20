@@ -16,12 +16,15 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-    {
-      name: "Anakin",
-      password: "anakin",
-      host: "us.apsara.lol",
-      port:  25575,
+   
+{
+      name: "GlaceYT",
+      password: "glaceyt",
+      host: "5.39.63.207",
+      port:  8262,
       secure: false
     }
+
+
   ]
 }
